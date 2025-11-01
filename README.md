@@ -1,4 +1,4 @@
-# LED Chaser
+# LED Trains
 
 On my I/O Board, L7 is the leftmost LED whereas L0 is the rightmost LED.
 <img height="200" alt="image6" src="https://github.com/user-attachments/assets/435ce91c-e971-4054-89fc-28b047778e84" />
